@@ -33,7 +33,7 @@ html {
 }
 
 #navbar-hide {
-    width: 2rem;
+    width: calc(100vw - 2rem);
     height: 10rem;
     overflow: hidden;
 
