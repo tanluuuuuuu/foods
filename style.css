@@ -389,6 +389,18 @@ html {
         z-index: 0;
         background-color: #fefefe;
     }
+    
+    .card {
+        width: 40rem;
+    }
+
+    .card-name {
+        font-size: 5rem;
+    }
+
+    .card-btn {
+        font-size: 3.5rem;
+    }
 
     .food-name {
         font-size: 4rem;
