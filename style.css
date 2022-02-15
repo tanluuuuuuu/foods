@@ -474,4 +474,8 @@ html {
     .sign-up {
         margin-top: 5rem;
     }
+
+    .email-box {
+        width: 80vw;
+    }
 }
